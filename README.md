@@ -6,7 +6,10 @@ It provides smart overlays, quick macros, and context-sensitive hotkeys to help 
 
 <img width="1024" height="1024" alt="ChatGPT Image 4  Nov  2025, 17_03_36" src="https://github.com/user-attachments/assets/961ae365-077e-4d84-8ee2-5b87f31351e5" />
 
-
+> ⚠️ **Disclaimer**  
+> The author assumes **no responsibility** for any data, character, or account loss.  
+> This macro is **purely experimental** and provided **as-is**, **without any guarantees or warranties** of any kind.  
+> Use at your own risk.
 ---
 
 ## ✨ Features
@@ -17,6 +20,14 @@ It provides smart overlays, quick macros, and context-sensitive hotkeys to help 
 - 🧠 **Non-Intrusive UI** – Transparent, click-through overlays that never block gameplay.  
 - 🔒 **Safe & Controlled** – Includes a global stop hotkey (**F12**) to cancel all running loops instantly without exiting the script.  
 - 🔁 **Customizable Key Mapping** – Easily edit all keys and timings to match your preferred control layout.
+
+---
+
+##  Included Functions
+
+- **Quick Overcharge** – Deplets your hive immediatly to achieve direct overcharge.  
+- **Shoker Punch Swap** – By quick swapping holster back and forth from and back to Shoker Punch, you can reset Cooldown immediatly 
+- **Open Apparel Caches** - Opens up apparel caches quickly. Caution! This should not be unobserverd since long pressing x (eg for deleting charaters) is included.
 
 ---
 

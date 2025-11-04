@@ -3,6 +3,10 @@
 A lightweight **AutoHotkey v2 tool** designed to simplify and enhance your *Tom Clancy’s The Division 2* raid experience.  
 It provides smart overlays, quick macros, and context-sensitive hotkeys to help coordinate actions efficiently during RSC raids or solo play.
 
+
+<img width="1024" height="1024" alt="ChatGPT Image 4  Nov  2025, 15_47_39" src="https://github.com/user-attachments/assets/44281185-157f-4816-a6c4-a3168ec99165" />
+
+
 ---
 
 ## ✨ Features

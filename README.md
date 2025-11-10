@@ -1,5 +1,6 @@
 # 🛰️ Division 2 Raid Helper Tool
 
+## Sill under developement and testing
 A lightweight **AutoHotkey v2 tool** designed to simplify and enhance your *Tom Clancy’s The Division 2* raid experience.  
 It provides smart overlays, quick macros, and context-sensitive hotkeys to help coordinate actions efficiently during RSC raids or solo play.
 
